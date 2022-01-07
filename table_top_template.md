@@ -21,10 +21,11 @@ tags: #templates
 
 ### Scenario 2 (example)
 
-> All of a sudden, your phishing alias goes bonkers, the pager is pinging like crazy. Hundred of employees are forwarding the same email to the IR team. We do initial analysis and determine the email contains a malicious payload. What would we do next?
+> All of a sudden, your phishing alias goes bonkers, the pager is pinging like crazy. Hundreds of employees are forwarding the same email to the IR team. We do initial analysis and determine the email contains a malicious payload. What would we do next?
 
 #### "Interject"
 
+> More employees continue to forward the same email to the IR team, and now IR employee's cannot access their inboxes. What happens next?
 
 #### Expected Reaction
 
