@@ -2,6 +2,8 @@
 
 **Observation:**
 
+**Severity:**
+
 **MITRE ATT&CK ID:**
 
 **Detailed Risk Information:**
