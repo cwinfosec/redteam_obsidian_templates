@@ -12,7 +12,7 @@ tags: #templates
 
 #### "Interject" (providing more context information to the scenario)
 
-> This scenario is taking place at 8PM at night on a Wednesday.
+> This scenario is taking place at 2PM on a Wednesday.
 
 #### Expected Reaction
 
