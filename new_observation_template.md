@@ -2,7 +2,7 @@
 
 **Observation:**
 
-**ATT&CK ID:**
+**MITRE ATT&CK ID:**
 
 **Detailed Risk Information:**
 
