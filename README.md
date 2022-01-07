@@ -1,6 +1,6 @@
 # Red Team Obsidian Templates
 
-Red Team Templates For [Obsidian.md](https://obsidian.md). Many of the ideas for these templates are copied or inspired by templates found on [https://redteam.guide](https://redteam.guide)
+Red Team Templates For [Obsidian.md](https://obsidian.md). Many of the ideas for these templates are copied or inspired by templates found on [https://redteam.guide](https://redteam.guide). 
 
 # Read Me
 
