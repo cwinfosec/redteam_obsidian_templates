@@ -13,7 +13,9 @@ Step 6. Select the template you would like to use from the drop-down menu
 
 Obsidian should auto-populate your desired template into the presently viewed document. 
 
-I recommend this video by [![Systematic Mastery](https://i.ytimg.com/vi/t3Qr_rFfPc8/hqdefault.jpg)](https://www.youtube.com/watch?v=t3Qr_rFfPc8) for a thorough explanation on how to setup & utilize Obsidian. 
+I recommend this video by Systematic Mastery for a thorough explanation on how to setup & utilize Obsidian. 
+
+[![Systematic Mastery](https://i.ytimg.com/vi/t3Qr_rFfPc8/hqdefault.jpg)](https://www.youtube.com/watch?v=t3Qr_rFfPc8) 
 
 ## Recommended Plug-ins
 
