@@ -4,12 +4,12 @@ Red Team Templates For [Obsidian.md](https://obsidian.md). Many of the ideas for
 
 # Read Me
 
-Step 1. Create a new folder in your vault called "Templates"
-Step 2. Copy the templates in this repository to the Templates folder
-Step 3. When you want to utilize a template, CTRL+P to bring up Obsidian Commands
-Step 4. Type "insert template" into the Command text area
-Step 5. Select "Templates: Insert template" or "Templater: Insert template" if you are using Templater and hit ENTER
-Step 6. Select the template you would like to use from the drop-down menu
+1. Create a new folder in your vault called "Templates"
+2. Copy the templates in this repository to the Templates folder
+3. When you want to utilize a template, CTRL+P to bring up Obsidian Commands
+4. Type "insert template" into the Command text area
+5. Select "Templates: Insert template" or "Templater: Insert template" if you are using Templater and hit ENTER
+6. Select the template you would like to use from the drop-down menu
 
 Obsidian should auto-populate your desired template into the presently viewed document. 
 
